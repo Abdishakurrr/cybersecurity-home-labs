@@ -129,6 +129,8 @@ What it does:
 T1003.001 = MITRE ATT&CK technique for credential dumping (stealing passwords from memory)
 -TestNumbers 1 = Runs test #1 for this technique
 Simulates how attackers steal credentials from Windows systems
+
+
 3. Alternative Attack Simulation
 
 Issue: The Atomic Red Team test didn’t work for me.
