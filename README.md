@@ -206,8 +206,7 @@ Result:
 
 
 
-
-
+Full write-up on Medium - https://medium.com/@aabdimohamed/i-built-a-soc-detection-lab-and-wrote-detection-rules-that-actually-caught-attacks-a1cd27235d34?postPublishedType=repub
 
 
 
